@@ -1,4 +1,11 @@
-# elGoogle 
+# elGoogle ![Latest Release](https://img.shields.io/github/v/release/ElLatuk/elGoogle?color=%23083fe5)
+
+
+![Total Downloads](https://img.shields.io/github/downloads/ElLatuk/elGoogle/total?color=indigo) ![Repo Size](https://img.shields.io/github/repo-size/ElLatuk/elGoogle?color=%23083fe5)
+![Issues](https://img.shields.io/github/issues/ElLatuk/elGoogle?color=%239E9E9E) ![License](https://img.shields.io/github/license/ElLatuk/elGoogle?color=%239E9E9E)
+ ![Stars](https://img.shields.io/github/stars/ElLatuk/elGoogle?color=%23FFD700)
+
+
 
 Делает Google поиск лучше!!! / Make Google Search Better!!!
 
