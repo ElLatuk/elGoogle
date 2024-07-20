@@ -14,6 +14,9 @@ This script improves the appearance of google search
 
 ## Установка // Installation
 
+Получить скрипт // Get script - [GreasyFork](https://greasyfork.org/ru/scripts/501245-elgoogle) [GitHub](https://github.com/ElLatuk/elGoogle) [OpenUserJS](https://openuserjs.org/scripts/ellatuk/elGoogle)
+
+
 Установка осуществляется любым менеджером скриптов, например: [Violentmonkey](https://violentmonkey.github.io/get-it/), [Tampermonkey](https://www.tampermonkey.net/)
 
 1. Установите TamperMonkey расширение для вашего браузера.
