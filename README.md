@@ -1,7 +1,6 @@
 # elGoogle 
 
-делает гугал поиск лучше!!!
-make google search better!!!
+Делает Google поиск лучше!!! / Make Google Search Better!!!
 
 ## Описание // Description
 
@@ -31,4 +30,4 @@ Installation is done by any script manager, for example: Violentmonkey, Tampermo
 ellatuk
 
 (c) 2024 ellatuk
-Все права защищены // All rights reserved
+Все права защищены / All rights reserved
